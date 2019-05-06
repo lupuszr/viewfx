@@ -1,0 +1,83 @@
+<classpath>
+  <classpathentry kind="src" path="src/main/scala"/>
+  <classpathentry kind="con" path="org.scala-ide.sdt.launching.SCALA_CONTAINER"></classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.scalafx/scalafx_2.12/srcs/scalafx_2.12-11-R16-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.scalafx/scalafx_2.12/jars/scalafx_2.12-11-R16.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.scalafx/scalafx_2.12/docs/scalafx_2.12-11-R16-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/cats-core_2.12/srcs/cats-core_2.12-1.6.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/cats-core_2.12/jars/cats-core_2.12-1.6.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/cats-core_2.12/docs/cats-core_2.12-1.6.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/cats-macros_2.12/srcs/cats-macros_2.12-1.6.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/cats-macros_2.12/jars/cats-macros_2.12-1.6.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/cats-macros_2.12/docs/cats-macros_2.12-1.6.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/machinist_2.12/srcs/machinist_2.12-0.6.6-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/machinist_2.12/jars/machinist_2.12-0.6.6.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/machinist_2.12/docs/machinist_2.12-0.6.6-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/cats-kernel_2.12/srcs/cats-kernel_2.12-1.6.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/cats-kernel_2.12/jars/cats-kernel_2.12-1.6.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/cats-kernel_2.12/docs/cats-kernel_2.12-1.6.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/cats-effect_2.12/srcs/cats-effect_2.12-1.3.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/cats-effect_2.12/jars/cats-effect_2.12-1.3.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/cats-effect_2.12/docs/cats-effect_2.12-1.3.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/srcs/monocle-core_2.12-1.5.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/jars/monocle-core_2.12-1.5.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-core_2.12/docs/monocle-core_2.12-1.5.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.scalaz/scalaz-core_2.12/srcs/scalaz-core_2.12-7.2.18-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.scalaz/scalaz-core_2.12/bundles/scalaz-core_2.12-7.2.18.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.scalaz/scalaz-core_2.12/docs/scalaz-core_2.12-7.2.18-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-macro_2.12/srcs/monocle-macro_2.12-1.5.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-macro_2.12/jars/monocle-macro_2.12-1.5.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-macro_2.12/docs/monocle-macro_2.12-1.5.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/macro-compat_2.12/srcs/macro-compat_2.12-1.1.1-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/macro-compat_2.12/jars/macro-compat_2.12-1.1.1.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/macro-compat_2.12/docs/macro-compat_2.12-1.1.1-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-base/jars/javafx-base-11-mac.jar"/>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-controls/jars/javafx-controls-11-mac.jar"/>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-graphics/jars/javafx-graphics-11-mac.jar"/>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-fxml/jars/javafx-fxml-11-mac.jar"/>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-media/jars/javafx-media-11-mac.jar"/>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-swing/jars/javafx-swing-11-mac.jar"/>
+  <classpathentry kind="lib" path="/Users/lupus/.ivy2/cache/org.openjfx/javafx-web/jars/javafx-web-11-mac.jar"/>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-law_2.12/srcs/monocle-law_2.12-1.5.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-law_2.12/jars/monocle-law_2.12-1.5.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/com.github.julien-truffaut/monocle-law_2.12/docs/monocle-law_2.12-1.5.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.typelevel/discipline_2.12/srcs/discipline_2.12-0.8-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.typelevel/discipline_2.12/jars/discipline_2.12-0.8.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.typelevel/discipline_2.12/docs/discipline_2.12-0.8-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.scalacheck/scalacheck_2.12/srcs/scalacheck_2.12-1.13.5-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.scalacheck/scalacheck_2.12/jars/scalacheck_2.12-1.13.5.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.scalacheck/scalacheck_2.12/docs/scalacheck_2.12-1.13.5-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry sourcepath="/Users/lupus/.ivy2/cache/org.scala-sbt/test-interface/srcs/test-interface-1.0-sources.jar" kind="lib" path="/Users/lupus/.ivy2/cache/org.scala-sbt/test-interface/jars/test-interface-1.0.jar">
+    <attributes>
+      <attribute name="javadoc_location" value="jar:file:/Users/lupus/.ivy2/cache/org.scala-sbt/test-interface/docs/test-interface-1.0-javadoc.jar!/"/>
+    </attributes>
+  </classpathentry>
+  <classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+  <classpathentry kind="output" path="bin"/>
+</classpath>
